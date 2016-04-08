@@ -58,7 +58,7 @@
 |16|**Đại lý dự án CA**|KH liên quan đến đại lý ngân hàng ACB/IVB| BDL2
 |||Các vấn đề liên quan đến đại lý dự án (đối soát ) như: Ngân hàng chứng khoán, đại lý thuế mới thành lập, đại lý liên quan đến kinh doanh.
 |17|**BKE CA**| KH báo hủy thu HS, CKS, tiền, thời gian hẹn giao (Đã có NVgửi box báo thu trước đó) | BKE
-|18|**Khiếu nại chuyển phát| Chuyển các vấn đề liên quan đến chưa nhận được CKS >1ngày. Chuyển các vấn đề liên quan đến khiếu nại những vấn đề chưa nhận hồ sơ, chưa thu tiền, chưa hỗ trợ tận nơi, báo không đến thu nữa… (Đã có NVgửi box báo thu trước đó).| BKE
+|18|**Khiếu nại chuyển phát**| Chuyển các vấn đề liên quan đến chưa nhận được CKS >1ngày. Chuyển các vấn đề liên quan đến khiếu nại những vấn đề chưa nhận hồ sơ, chưa thu tiền, chưa hỗ trợ tận nơi, báo không đến thu nữa… (Đã có NVgửi box báo thu trước đó).| BKE
 |19|**Cấp lại CKS**| Chuyển các KH có nhu cầu cấp lại CKS (chuyển sau khi đã hướng dẫn thủ tục, gửi mail cho KH) bao gồm: thay đổi tên Cty, MST, địa chỉ kinh doanh từ cấp quận, mất thiết bị. | B.HTKD5
 |||KH có nhu cầu chuyển nhượng CKS (HSD, usb)
 |20|**KN cấp sai CKS**|KH báo thông tin trên USB bị sai, sai thời gian, gói cước đã chốt trước đó, chưa nhận được KM, chưa nhận được GCNGH CKS, Cần gửi thêm 1 giấy chứng nhận SD CKS, bị phạt do nộp chậm| B.HTKD5
