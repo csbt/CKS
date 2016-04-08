@@ -57,7 +57,17 @@
 |||KH có nhu cầu thay đổi gói cước CKS của KH đại lý
 |16|**Đại lý dự án CA**|KH liên quan đến đại lý ngân hàng ACB/IVB| BDL2
 |||Các vấn đề liên quan đến đại lý dự án (đối soát ) như: Ngân hàng chứng khoán, đại lý thuế mới thành lập, đại lý liên quan đến kinh doanh.
-||**Nhập đầy đủ thông tin, chát báo PT để Chuyển công văn**|KH có nhu cầu tư vấn về SP CKS SSL và HSM |  Ban An ninh mạng\Ban ứng dụng CA\Phòng dự án
+|17|**BKE CA**| KH báo hủy thu HS, CKS, tiền, thời gian hẹn giao (Đã có NVgửi box báo thu trước đó) | BKE
+|18|**Khiếu nại chuyển phát| Chuyển các vấn đề liên quan đến chưa nhận được CKS >1ngày. Chuyển các vấn đề liên quan đến khiếu nại những vấn đề chưa nhận hồ sơ, chưa thu tiền, chưa hỗ trợ tận nơi, báo không đến thu nữa… (Đã có NVgửi box báo thu trước đó).| BKE
+|19|**Cấp lại CKS**| Chuyển các KH có nhu cầu cấp lại CKS (chuyển sau khi đã hướng dẫn thủ tục, gửi mail cho KH) bao gồm: thay đổi tên Cty, MST, địa chỉ kinh doanh từ cấp quận, mất thiết bị. | B.HTKD5
+|||KH có nhu cầu chuyển nhượng CKS (HSD, usb)
+|20|**KN cấp sai CKS**|KH báo thông tin trên USB bị sai, sai thời gian, gói cước đã chốt trước đó, chưa nhận được KM, chưa nhận được GCNGH CKS, Cần gửi thêm 1 giấy chứng nhận SD CKS, bị phạt do nộp chậm| B.HTKD5
+|21|**Khiếu nại hợp đồng**| Các KH khiếu nại hợp đồng, KH muốn sửa đổi hợp đồng, chưa nhận được hợp đồng đã ký, KH yêu cầu in hợp đồng, đóng dấu trước và gửi cho KH. KH cần thêm giấy bảo lưu| B.HTKD5
+|22|**Hỗ trợ quốc tế**| KH nói tiếng nước ngoài
+|23|**Gửi KH phản ánh**| KH phản ánh chất lượng DV, phản ánh NV thái độ, phản ánh liên hệ nhiều lần không thấy ai hỗ trợ, phản ánh giả mạo…| Báo PT trước
+|24|**Báo lại PT**|KH cần xin lại HĐ photo do đã làm mất| Đặt hẹn
+|25|**tncnonline.com.vn**|KH muốn đăng ký CKS cá nhân để kê khai thuế thu nhập cá nhân
+|26|**Nhập đầy đủ thông tin, chát báo PT để Chuyển công văn**|KH có nhu cầu tư vấn về SP CKS SSL và HSM |  Ban An ninh mạng\Ban ứng dụng CA\Phòng dự án
 |||KH có nhu cầu mua mới/gia hạn CKS SSL và HSM 
 |||KH có nhu cầu tư vấn, đăng ký mua eHoadon
 |||Thông tin chuyển sang bao gồm tên KH, MST/công ty, địa chỉ, SĐT liên hệ, nội dung vấn đề.
