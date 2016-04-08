@@ -57,3 +57,7 @@
 |||KH có nhu cầu thay đổi gói cước CKS của KH đại lý
 |16|**Đại lý dự án CA**|KH liên quan đến đại lý ngân hàng ACB/IVB| BDL2
 |||Các vấn đề liên quan đến đại lý dự án (đối soát ) như: Ngân hàng chứng khoán, đại lý thuế mới thành lập, đại lý liên quan đến kinh doanh.
+||**Nhập đầy đủ thông tin, chát báo PT để Chuyển công văn**|KH có nhu cầu tư vấn về SP CKS SSL và HSM |  Ban An ninh mạng\Ban ứng dụng CA\Phòng dự án
+|||KH có nhu cầu mua mới/gia hạn CKS SSL và HSM 
+|||KH có nhu cầu tư vấn, đăng ký mua eHoadon
+|||Thông tin chuyển sang bao gồm tên KH, MST/công ty, địa chỉ, SĐT liên hệ, nội dung vấn đề.
