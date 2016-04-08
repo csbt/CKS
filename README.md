@@ -43,3 +43,17 @@
 |||KH đã có CKS nhưng chưa biết cách kê khai, kê khai báo lỗi
 |||KH cần tra cứu tờ khai 
 |12|**Hỗ trợ kỹ thuật AC CKK**|KH cần hướng dẫn cài đặt, sử dụng khi mới được cấp CKS| AC2
+|13|**Hỗ trợ kỹ thuật AC gia hạn**| KH cần hướng dẫn cập nhật gia hạn CKS. Đã được bộ phận GH xử lý (cập nhật số serial)| AC3
+|14|**Đại lý CA**| KH có nhu cầu làm Đại lý/ Chiết khấu | BDL2
+|||Thanh toán chiết khấu cho Đại lý 
+|||KH đang sử dụng từ 3 CKS trở lên muốn mua thêm CKS mới để BDL2 mời KH làm đại lý 
+|||KH hỏi về giá hoặc thủ tục chuyển đổi CKS cá nhân sang kê khai Ngân hàng
+|||KH có nhu cầu cấp mới và trong hồ sơ KH có 3 CKS trở lên 
+|||KH thuộc đối tác GOL thì chọn work Đại lý CA không chọn Account 
+|||Đại lý thuế (ĐLT) các tỉnh chuyển thông tin doanh nghiệp để cấp CKS
+|15|**Gia hạn CA đại lý**|KH đại lý gia hạn| BDL2
+|||KH là đại lý bảo lưu hạn sử dụng có nhu cầu dùng lại.
+|||KH Đại lý đang có CKS có hạn SD ≤  90 ngày, muốn mua mới CKS cho công ty khác.
+|||KH có nhu cầu thay đổi gói cước CKS của KH đại lý
+|16|**Đại lý dự án CA**|KH liên quan đến đại lý ngân hàng ACB/IVB| BDL2
+|||Các vấn đề liên quan đến đại lý dự án (đối soát ) như: Ngân hàng chứng khoán, đại lý thuế mới thành lập, đại lý liên quan đến kinh doanh.
